@@ -26,6 +26,10 @@
     "clear C5",
     "clear C4",
     "flag B4",
-    "unflag F2"
+    "unflag F2",
+    "clear F2",
+    "clear F1",
+    "clear B5",
+    "clear B6"
   ]
 }
