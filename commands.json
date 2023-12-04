@@ -18,6 +18,10 @@
     "clear A6",
     "flag A7",
     "clear A8",
+    "clear H6",
+    "clear H7",
+    "clear H8",
+    "clear C1"
     "clear H5",
     "flag H4",
     "flag H3",
